@@ -1,6 +1,6 @@
 <div align="center">
 
-![nDSAT Logo](ndsatlogo.png)
+![nDSAT Logo](ndsat.png)
 
 # nDS Audio Toolkit (nDSAT)
 
